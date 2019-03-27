@@ -15,16 +15,17 @@
 - [Quick start](#quick-start)
 - [What's included](#whats-included)
 - [Documentation](#documentation)
-- [Bugs and feature requests](#bugs-and-feature-requests)
+- [Bugs](#bugs-or-support)
 - [Contributing](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
 - [Creators](#creators)
 
 
 ## Quick start
 
 CDN
+
+SLID SERVER 
+`https://slidserver.herokuapp.com`
 
 
 ## What's included
@@ -46,9 +47,8 @@ in its subfolder
 ## Bugs or Support
 
 For any bugs or problems feel free to contact us at any time on these skype adresses: 
->-alex_medve
-
->-romilavlad2001
+>- alex_medve
+>- romilavlad2001
 
 We will reply to your message **as fast as possible** and will look into the problem to help you finish your projects using our **SLID framework**!
 
