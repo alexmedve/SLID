@@ -47,6 +47,7 @@ in its subfolder
 
 For any bugs or problems feel free to contact us at any time on these skype adresses: 
 >-alex_medve
+
 >-romilavlad2001
 
 We will reply to your message **as fast as possible** and will look into the problem to help you finish your projects using our **SLID framework**!
