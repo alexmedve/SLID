@@ -7,10 +7,6 @@
 
 <p align="center">
   Powerful, Intuitive and Versatile Carousel framework
-  <br>
-  <a href="https://getbootstrap.com/docs/4.3/"><strong>Explore Bootstrap docs »</strong></a>
-  <br>
-
 </p>
 
 
