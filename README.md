@@ -16,7 +16,7 @@
 - [What's included](#whats-included)
 - [Documentation](#documentation)
 - [Bugs](#bugs-or-support)
-- [Contributing](#contributing)
+- [Feature Requests](#feature-requests)
 - [Creators](#creators)
 
 
@@ -54,11 +54,7 @@ We will reply to your message **as fast as possible** and will look into the pro
 
 ## Feature requests
 
-For any bugs or feature requests feel free to contact us  
-
-## Contributing
-
-SLID
+If you have any ideea on how we can improve our framework or you would like to see new features, send us an email at **rvamediaproducts@gmail.com** !
 
 
 ## Creators
